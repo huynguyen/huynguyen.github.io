@@ -2,7 +2,7 @@ timezone: America/Los_Angeles
 
 
 title: huynguyen.github.io
-description: 
-google_analytics: 
+description:
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: minima
