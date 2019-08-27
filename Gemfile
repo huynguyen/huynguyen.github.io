@@ -1,5 +1,5 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "jekyll", ">= 3.6.3"
+gem "jekyll", ">= 4.0.0"
 gem "minima", "~> 2.5.0"
