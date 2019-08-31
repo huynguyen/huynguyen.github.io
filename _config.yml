@@ -1,8 +1,15 @@
 timezone: America/Los_Angeles
-
-
 title: huynguyen.github.io
 description:
 google_analytics:
 show_downloads: true
 theme: minima
+markdown: kramdown
+permalink: /posts/:slug
+highlighter: rouge
+excerpt_separator: <!--more-->
+kramdown:
+  syntax_highlighter: rouge
+plugins:
+  - rouge
+
