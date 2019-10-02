@@ -1,7 +1,7 @@
 timezone: America/Los_Angeles
 title: huynguyen.github.io
 description:
-google_analytics:
+google_analytics: UA-149268157-1
 show_downloads: true
 theme: minima
 markdown: kramdown
